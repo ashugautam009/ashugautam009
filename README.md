@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashugautam009
 - 👀 I’m interested in Frontend-->React||Redux
-- 🌱 I’m currently learning -->React Js an dnext will be Next Js
+- 🌱 I’m currently learning -->React Js and Next Js
 - 📫 How to reach me ..Mail Me: - ashugautam009@gmail.com
 
 <!---
