@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashugautam009
-- 👀 I’m interested in Frontend-->React||Redux
+- 👀 I’m interested in Frontend-->React JS||Redux||Formik
 - 🌱 I’m currently learning -->React Js and Next Js
 - 📫 How to reach me ..Mail Me: - ashugautam009@gmail.com
 
